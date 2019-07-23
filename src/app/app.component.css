@@ -1,0 +1,51 @@
+.container-fluid {
+    background-color: #f0f0f0;
+    height: 100vh;
+    color: #000;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.grey-text {
+    color: #8d8d8d;
+}
+.small-font {
+    font-size: 12px;
+}
+.pad-left-5 {
+    padding-left: 5px;
+}
+.pad-right-5 {
+    padding-right: 5px;
+}
+.header-container {
+    padding: 3em 2em;
+}
+.create-task-container, .task-list-container {
+    background-color: #fff;
+    padding: 2em 3em;
+    min-height: 400px;
+}
+.heading {
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+.tasks-container {
+    border: 5px solid #DEDEDE;
+    border-radius: 5px;
+    padding: 0 1em;
+}
+.task-row {
+    height: 40px;
+    line-height: 38px;
+}
+.task-row:nth-child(even){
+    background-color: #ECECEC;
+}
+.form-control {
+    background-color: #ECECEC;
+    color: #000;
+}
+.remove-icon {
+    padding-top: 0.5em;
+}
+  
